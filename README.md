@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack web developer and a third-year computer science student at University of Science and Technology Houari Boumediene.</h3>
 
 
-- 🔭 I’m currently working on [my portfolio](https://inzhamed.github.io/InzPortfolio/)
+- 🔭 I’m currently working on a clone of [iPhone 15 pro website](https://github.com/Inzhamed/iphone15pro-website)
 
 - 🌱 I’m currently learning **more backend development**
 
