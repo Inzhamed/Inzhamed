@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full-stack web developer and a third-year computer science student at University of Science and Technology Houari Boumediene.</h3>
 
 
-- 🔭 I’m currently working on a clone of [iPhone 15 pro website](https://github.com/Inzhamed/iphone15pro-website)
+- 🔭 I’m currently working on [Railway Inspection Dashboard](https://github.com/Inzhamed/pfc)
 
 - 🌱 I’m currently learning **more backend development**
 
-- 👨‍💻 All of my projects are available at [inzhamed.github.io/InzPortfolio](https://inzhamed.github.io/InzPortfolio/)
+- 👨‍💻 All of my projects are available at [inzhamed.github.io/InzPortfolio](https://inzhamed.github.io/portfolio/)
 
 - 📫 How to reach me **inezarenehamed@gmail.com**
 
