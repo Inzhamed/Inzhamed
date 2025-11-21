@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, I'm INEZARENE Hamed Abdelaziz</h1>
-<h3 align="center">A passionate full-stack web developer and a third-year computer science student at University of Science and Technology Houari Boumediene.</h3>
+<h3 align="center">A passionate full-stack web developer and a master student at the University of Science and Technology Houari Boumediene.</h3>
 
 
-- 🔭 I’m currently working on [Railway Inspection Dashboard](https://github.com/Inzhamed/pfc)
+- 🔭 I’m currently working on [Assurea](https://github.com/Inzhamed/assurea)
 
 - 🌱 I’m currently learning **more backend development**
 
