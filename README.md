@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **more backend development**
 
-- 👨‍💻 All of my projects are available at [inzhamed.github.io/InzPortfolio](https://inzhamed.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [inzhamed.github.io/portfolio](https://inzhamed.github.io/portfolio/)
 
 - 📫 How to reach me **inezarenehamed@gmail.com**
 
