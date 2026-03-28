@@ -33,7 +33,7 @@ Experienced in combining **software engineering** with **machine learning** to s
 
 ## 🌐 Portfolio
 
-👉 inzhamed.github.io/portfolio
+👉 [inzhamed.github.io/portfolio](https://inzhamed.github.io/portfolio/)
 
 ## 📫 Contact
 
